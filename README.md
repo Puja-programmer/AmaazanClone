@@ -1,4 +1,4 @@
-**Amazon Clone - Front Page**
+**AmaazanClone - Front Page**
 
 This is a clone of the front page of the popular e-commerce website Amazon.com. It is a static web page built using HTML and CSS to replicate the design and layout of Amazon's landing page. This project serves as a demonstration and learning exercise to showcase my web development skills.
 
